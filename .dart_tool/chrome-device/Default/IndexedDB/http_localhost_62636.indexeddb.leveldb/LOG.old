@@ -1,0 +1,25 @@
+2025/01/23-11:35:20.242 3ac0 Reusing MANIFEST C:\Users\helen\AppData\Local\Temp\flutter_tools.c37a0b36\flutter_tools_chrome_device.3b0bdda3\Default\IndexedDB\http_localhost_62636.indexeddb.leveldb/MANIFEST-000001
+2025/01/23-11:35:20.242 3ac0 Recovering log #7
+2025/01/23-11:35:20.243 3ac0 Reusing old log C:\Users\helen\AppData\Local\Temp\flutter_tools.c37a0b36\flutter_tools_chrome_device.3b0bdda3\Default\IndexedDB\http_localhost_62636.indexeddb.leveldb/000007.log 
+2025/01/23-11:35:20.250 3ac0 Level-0 table #12: started
+2025/01/23-11:35:20.254 3ac0 Level-0 table #12: 8987 bytes OK
+2025/01/23-11:35:20.257 3ac0 Delete type=0 #7
+2025/01/23-11:35:20.258 2ad4 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/23-11:36:00.276 ff4 Compacting 1@1 + 1@2 files
+2025/01/23-11:36:00.281 ff4 Generated table #13@1: 41 keys, 2899 bytes
+2025/01/23-11:36:00.281 ff4 Compacted 1@1 + 1@2 files => 2899 bytes
+2025/01/23-11:36:00.284 ff4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/23-11:36:00.284 ff4 Delete type=2 #9
+2025/01/23-11:36:00.284 ff4 Delete type=2 #12
+2025/01/23-11:43:55.560 ff4 Level-0 table #15: started
+2025/01/23-11:43:55.562 ff4 Level-0 table #15: 11460 bytes OK
+2025/01/23-11:43:55.564 ff4 Delete type=0 #11
+2025/01/23-11:43:55.565 ff4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/01/23-11:43:55.565 ff4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00C\x00F\x00s\x00p\x00l\x00H\x00d\x00N\x00L\x00L\x00s\x00o\x006\x00J\x00q\x00C\x00D\x00W\x00M\x002\x00j\x00c\x00I\x00O\x00y\x00p\x00G\x00C\x00z\x000\x00H\x00M\x00A\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 284 : 1
+2025/01/23-11:43:55.565 ff4 Compacting 1@1 + 1@2 files
+2025/01/23-11:43:55.567 ff4 Generated table #16@1: 35 keys, 2739 bytes
+2025/01/23-11:43:55.567 ff4 Compacted 1@1 + 1@2 files => 2739 bytes
+2025/01/23-11:43:55.568 ff4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/23-11:43:55.569 ff4 Delete type=2 #13
+2025/01/23-11:43:55.569 ff4 Delete type=2 #15
+2025/01/23-11:43:55.570 ff4 Manual compaction at level-1 from '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00C\x00F\x00s\x00p\x00l\x00H\x00d\x00N\x00L\x00L\x00s\x00o\x006\x00J\x00q\x00C\x00D\x00W\x00M\x002\x00j\x00c\x00I\x00O\x00y\x00p\x00G\x00C\x00z\x000\x00H\x00M\x00A\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 284 : 1 .. (end); will stop at (end)

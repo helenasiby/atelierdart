@@ -1,0 +1,33 @@
+2025/02/02-20:15:38.630 a0c Reusing MANIFEST C:\Users\helen\AppData\Local\Temp\flutter_tools.eb5da77d\flutter_tools_chrome_device.4821bca3\Default\IndexedDB\http_localhost_51040.indexeddb.leveldb/MANIFEST-000001
+2025/02/02-20:15:38.630 a0c Recovering log #15
+2025/02/02-20:15:38.630 a0c Reusing old log C:\Users\helen\AppData\Local\Temp\flutter_tools.eb5da77d\flutter_tools_chrome_device.4821bca3\Default\IndexedDB\http_localhost_51040.indexeddb.leveldb/000015.log 
+2025/02/02-20:15:39.095 1868 Level-0 table #19: started
+2025/02/02-20:15:39.099 1868 Level-0 table #19: 921 bytes OK
+2025/02/02-20:15:39.100 1868 Delete type=0 #15
+2025/02/02-20:15:39.101 a0c Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 378 : 1
+2025/02/02-20:15:39.101 a0c Compacting 1@0 + 1@1 files
+2025/02/02-20:15:39.104 a0c Generated table #20@0: 41 keys, 2756 bytes
+2025/02/02-20:15:39.104 a0c Compacted 1@0 + 1@1 files => 2756 bytes
+2025/02/02-20:15:39.106 a0c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/02-20:15:39.106 a0c Delete type=2 #19
+2025/02/02-20:15:39.107 a0c Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 378 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/02-20:34:15.779 4e58 Level-0 table #22: started
+2025/02/02-20:34:15.782 4e58 Level-0 table #22: 7550 bytes OK
+2025/02/02-20:34:15.784 4e58 Delete type=2 #16
+2025/02/02-20:34:15.784 4e58 Delete type=0 #18
+2025/02/02-20:34:15.785 4e58 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00C\x00F\x00s\x00p\x00l\x00H\x00d\x00N\x00L\x00L\x00s\x00o\x006\x00J\x00q\x00C\x00D\x00W\x00M\x002\x00j\x00c\x00I\x00O\x00y\x00p\x00G\x00C\x00z\x000\x00H\x00M\x00A\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 413 : 1
+2025/02/02-20:34:15.785 4e58 Compacting 1@0 + 1@1 files
+2025/02/02-20:34:15.788 4e58 Generated table #23@0: 50 keys, 2756 bytes
+2025/02/02-20:34:15.788 4e58 Compacted 1@0 + 1@1 files => 2756 bytes
+2025/02/02-20:34:15.790 4e58 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/02-20:34:15.790 4e58 Delete type=2 #20
+2025/02/02-20:34:15.790 4e58 Delete type=2 #22
+2025/02/02-20:34:15.791 4e58 Manual compaction at level-0 from '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00C\x00F\x00s\x00p\x00l\x00H\x00d\x00N\x00L\x00L\x00s\x00o\x006\x00J\x00q\x00C\x00D\x00W\x00M\x002\x00j\x00c\x00I\x00O\x00y\x00p\x00G\x00C\x00z\x000\x00H\x00M\x00A\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 413 : 1 .. (end); will stop at (end)
+2025/02/02-20:34:15.791 4e58 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00C\x00F\x00s\x00p\x00l\x00H\x00d\x00N\x00L\x00L\x00s\x00o\x006\x00J\x00q\x00C\x00D\x00W\x00M\x002\x00j\x00c\x00I\x00O\x00y\x00p\x00G\x00C\x00z\x000\x00H\x00M\x00A\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 437 : 1
+2025/02/02-20:34:15.791 4e58 Compacting 1@1 + 1@2 files
+2025/02/02-20:34:15.794 4e58 Generated table #24@1: 36 keys, 2756 bytes
+2025/02/02-20:34:15.794 4e58 Compacted 1@1 + 1@2 files => 2756 bytes
+2025/02/02-20:34:15.797 4e58 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/02-20:34:15.798 4e58 Delete type=2 #13
+2025/02/02-20:34:15.798 4e58 Delete type=2 #23
+2025/02/02-20:34:15.799 4e58 Manual compaction at level-1 from '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00C\x00F\x00s\x00p\x00l\x00H\x00d\x00N\x00L\x00L\x00s\x00o\x006\x00J\x00q\x00C\x00D\x00W\x00M\x002\x00j\x00c\x00I\x00O\x00y\x00p\x00G\x00C\x00z\x000\x00H\x00M\x00A\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 437 : 1 .. (end); will stop at (end)

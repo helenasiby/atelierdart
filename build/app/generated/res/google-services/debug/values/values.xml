@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">789870460869</string>
+    <string name="google_api_key" translatable="false">AIzaSyD0Lfe02SHOXM9qFQAt8G6b6TOWAF36HZ8</string>
+    <string name="google_app_id" translatable="false">1:789870460869:android:62bda5b82d43dfbca315ac</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD0Lfe02SHOXM9qFQAt8G6b6TOWAF36HZ8</string>
+    <string name="google_storage_bucket" translatable="false">atelier-d-art.firebasestorage.app</string>
+    <string name="project_id" translatable="false">atelier-d-art</string>
+</resources>
