@@ -18,8 +18,10 @@ class ProductDetailsPage extends StatelessWidget {
           icon: const Icon(Icons.arrow_back),
           onPressed: () => Navigator.pop(context),
         ),
-        title: const Text('ceramic candle holder',
-            style: TextStyle(fontSize: 18, fontWeight: FontWeight.normal)),
+        title: Text(
+          product['name'] ?? 'Product Name', // Dynamically set product name
+          style: const TextStyle(fontSize: 18, fontWeight: FontWeight.normal),
+        ),
         backgroundColor: Colors.white,
         foregroundColor: Colors.black,
         elevation: 0,
@@ -32,7 +34,7 @@ class ProductDetailsPage extends StatelessWidget {
               width: double.infinity,
               color: Colors.grey[50],
               child: AspectRatio(
-                aspectRatio: 3/4,
+                aspectRatio: 3 / 4,
                 child: Image.network(
                   product['imagePath'] ?? '',
                   fit: BoxFit.contain,
@@ -46,9 +48,9 @@ class ProductDetailsPage extends StatelessWidget {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const Text(
-                    'ceramic candle holder',
-                    style: TextStyle(
+                  Text(
+                    product['name'] ?? 'Product Name', // Dynamically set product name
+                    style: const TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.w500,
                     ),
@@ -99,7 +101,8 @@ class ProductDetailsPage extends StatelessWidget {
                   ),
                   const SizedBox(height: 8),
                   Text(
-                    product['description'] ?? 'Beautiful ceramic candle holder with tree design, perfect for creating a cozy atmosphere.',
+                    product['description'] ??
+                        'Beautiful ceramic candle holder with tree design, perfect for creating a cozy atmosphere.',
                     style: TextStyle(
                       fontSize: 14,
                       color: Colors.grey[600],
@@ -108,7 +111,6 @@ class ProductDetailsPage extends StatelessWidget {
                 ],
               ),
             ),
-           //
           ],
         ),
       ),
